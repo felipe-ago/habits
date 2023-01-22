@@ -27,14 +27,6 @@ function save() {
   localStorage.setItem("NLWSetup@habits", JSON.stringify(nlwSetup.data));
 }
 
-/*const data = {
-  run: ["01-01", "01-05"],
-  water: ["01-02", "01-04"],
-  food: ["01-03"],
-  journal: ["01-02", "01-04"],
-  takePills: ["01-01", "01-05"],
-};*/
-
 //Comandos para carregar tela com as alterações salvas
 const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {};
 nlwSetup.setData(data);
