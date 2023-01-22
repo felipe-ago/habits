@@ -18,7 +18,7 @@ Habits é um projeto desenvolvido para auxiliar nos afazeres diários, tornando 
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".git/preview.jpg" width="100%">
+  <img alt="projeto Habits" src=".assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
