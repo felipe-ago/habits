@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Felipe Olivera com a tutoria de Mayk Brito da Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Felipe Olivera com a tutoria de Mayk Brito da Rocketseat 👋 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
